@@ -48,7 +48,7 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
     <th>Keras</th>
     <th>Numpy</th>
     <th>Pandas</th>
-    <th>Scikit-learn</th>
+    <th>MySQL</th>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55"></td>
