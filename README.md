@@ -14,14 +14,14 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
     <th>CSS3</th>
     <th>JavaScript</th>
     <th>ReactJS</th>
-    <th>Next.js</th>
+    <th>Vite</th>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="55" height="55"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="55" height="55"></td>
   </tr>
 </table>
 
