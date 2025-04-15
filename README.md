@@ -29,14 +29,16 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
 <table style="width:100%; table-layout: fixed;">
   <tr align="center">
     <th>Python</th>
-    <th>Node.js</th>
+    <th>MongoDB</th>
     <th>Express</th>
+    <th>Node.js</th>   
     <th>Firebase</th>
   </tr>
   <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55" height="55"></td>    
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="55" height="55"></td>
   </tr>
 </table>
