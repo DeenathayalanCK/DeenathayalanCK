@@ -25,7 +25,7 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
   </tr>
 </table>
 
----
+
 ### Front-End Development
 <table style="width:100%; table-layout: fixed;">
   <tr align="center">
@@ -62,7 +62,7 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
   </tr>
 </table>
 
-
+---
 
 ## 🚀 Projects & Experience
 
