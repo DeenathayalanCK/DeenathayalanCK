@@ -7,6 +7,25 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
 
 ## 💼 Professional Skills
 
+### AI & Data Science
+<table style="width:100%; table-layout: fixed;">
+  <tr align="center">
+    <th>TensorFlow</th>
+    <th>Keras</th>
+    <th>Numpy</th>
+    <th>Pandas</th>
+    <th>MySQL</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"></td>
+  </tr>
+</table>
+
+---
 ### Front-End Development
 <table style="width:100%; table-layout: fixed;">
   <tr align="center">
@@ -43,25 +62,7 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
   </tr>
 </table>
 
-### AI & Data Science
-<table style="width:100%; table-layout: fixed;">
-  <tr align="center">
-    <th>TensorFlow</th>
-    <th>Keras</th>
-    <th>Numpy</th>
-    <th>Pandas</th>
-    <th>MySQL</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"></td>
-  </tr>
-</table>
 
----
 
 ## 🚀 Projects & Experience
 
