@@ -1,13 +1,35 @@
 # Hi there! 👋 I'm Deenathayalan C K 🚀✨ ![](https://komarev.com/ghpvc/?username=DeenathayalanCK&color=1f6feb&style=flat-square)
 
 ## 🌟 About Me
-I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Intern, and Rotaractor based in Coimbatore, Tamil Nadu, India. I thrive on learning new things, asking questions for deeper insights, and leading teams toward success. My passion for tech drives me to explore innovative solutions in web development, AI, and cloud computing.  
+I'm a passionate **AI & Data Science** graduate, AI/ML Engineer, and Rotaractor based in Coimbatore, Tamil Nadu, India. I thrive on learning new things, asking questions for deeper insights, and leading teams toward success. My passion for tech drives me to build intelligent systems — from LLM-powered agents and RAG pipelines to full-stack web applications and enterprise solutions.
 
 ---
 
 ## 💼 Professional Skills
 
-### AI & Data Science
+### 🤖 AI / ML & Generative AI
+<table style="width:100%; table-layout: fixed;">
+  <tr align="center">
+    <th>LLM</th>
+    <th>RAG</th>
+    <th>Gen AI</th>
+    <th>Agentic AI</th>
+    <th>LLM Eval</th>
+    <th>Computer Vision</th>
+    <th>TTS / STT</th>
+  </tr>
+  <tr align="center">
+    <td>🧠</td>
+    <td>🔍</td>
+    <td>✨</td>
+    <td>🤖</td>
+    <td>📊</td>
+    <td>👁️</td>
+    <td>🎙️</td>
+  </tr>
+</table>
+
+### 🔬 Data Science & ML Frameworks
 <table style="width:100%; table-layout: fixed;">
   <tr align="center">
     <th>TensorFlow</th>
@@ -25,8 +47,7 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
   </tr>
 </table>
 
-
-### Front-End Development
+### 🎨 Front-End Development
 <table style="width:100%; table-layout: fixed;">
   <tr align="center">
     <th>HTML</th>
@@ -40,21 +61,21 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="55" height="55"></td>
   </tr>
 </table>
 
-### Back-End & Cloud
+### ⚙️ Back-End & Cloud
 <table style="width:100%; table-layout: fixed;">
   <tr align="center">
     <th>Python</th>
     <th>MongoDB</th>
     <th>Express</th>
-    <th>Node.js</th>   
+    <th>Node.js</th>
     <th>Firebase</th>
   </tr>
   <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55" height="55"></td>    
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"></td>
@@ -64,62 +85,92 @@ I'm an enthusiastic **AI & Data Science** undergraduate, Software Developer Inte
 
 ---
 
-## 🚀 Projects & Experience
+## 🚀 Featured Projects
 
-### Featured Projects
-- **AI Med-Assist (Nov 2024 - Present)**  
-  Developed a proactive healthcare solution integrating AI, ML, and IoT for real-time health monitoring and predictive analytics. Incorporated an AI-powered chatbot for personalized healthcare assistance.  
-  *[Project Details will soon be loaded](#)*
+- **AI Med-Assist (Nov 2024 - May 2025)**
+  A proactive healthcare solution that brings together AI, ML, and IoT for real-time health monitoring and predictive analytics. Features an AI-powered conversational assistant that delivers personalized healthcare guidance and early risk alerts.
+  *[Project Details](https://github.com/AI-MED-ASSIST/HealTron)*
 
-- **Telegram Bot (Oct 2023 - Nov 2023)**  
-  Built a Telegram Bot using the Telegram Bot API and Python to automate interactions with plans for more future AI integration.  
-  *[Project Details](https://github.com/DeenathayalanCK/Telegram-Bot)*
+- **B2B Enterprise Website (2025)**
+  A modern, fully responsive B2B enterprise web application built with React, TypeScript, and Tailwind CSS. Designed to showcase enterprise-grade services with a clean UI, smooth navigation, and professional presentation — deployed live on Vercel.
+  *[GitHub Repo](https://github.com/DeenathayalanCK/B2BenterpriseWebsite) | [Live Demo](https://b2-benterprise-website.vercel.app)*
 
-- **Sentiment Analysis on Feedback Data (Feb 2023 - Mar 2023)**  
-  Designed a system to evaluate and interpret user sentiments from textual data using machine learning and NLP techniques. Achieved high accuracy in classifying sentiments.  
+- **Telegram Bot (Oct 2023 - Nov 2023)**
+  Built a Telegram Bot using the Telegram Bot API and Python to automate interactions, with a roadmap for deeper AI integration.
+  *[GitHub Repo](https://github.com/DeenathayalanCK/Telegram-Bot)*
+
+- **Sentiment Analysis on Feedback Data (Feb 2023 - Mar 2023)**
+  Designed a system to evaluate and interpret user sentiments from textual data using machine learning and NLP techniques. Achieved high accuracy in classifying sentiments across multiple categories.
   *[GitHub Repo](https://github.com/DeenathayalanCK/Sentimental_Analysis)*
 
+---
+
 ## 🤵 Professional Experience
-- **Software Developer Intern @ iZet E-Payments (Feb 2025 - Present)**  
-  Working on building an eCommerce chatbot and contributing to web development projects.
-  
-- **Rotaract & Club Roles**  
-  - **Secretary (Jul 2023 - Jul 2024):** Honoured with the Best Secretary Award for leadership in Rotaract District Organisation.  
-  - **Club Service Director & Treasurer:** Actively involved in project management, documentation, and event coordination.  
-  *([Profile](&#8203;:contentReference[oaicite:2]{index=2}))*
+
+- **AI/ML Engineer @ Greenbotz AI Pvt. Ltd., Coimbatore (Jan 2026 - Present)**
+  Spearheading the development of intelligent AI solutions — building and fine-tuning LLM-powered pipelines, designing RAG architectures for knowledge retrieval, and implementing agentic AI workflows for real-world automation. Working across the full AI stack from model evaluation and prompt engineering to deployment and integration.
+
+- **IT Administrator @ Siemens Energy (Jun 2025 - Jan 2026)**
+  Managed SAP systems and enterprise applications while developing low-code solutions with Power Apps and Power Automate. Implemented ML-based automation to streamline workflows, performing system administration, incident resolution, and cross-functional collaboration to improve operational efficiency.
+
+- **Software Developer Intern @ iZet E-Payments (Feb 2025 - May 2025)**
+  Built an eCommerce chatbot from the ground up and contributed to multiple web development projects, gaining hands-on experience in full-stack development and conversational AI integration.
+
+---
+
+## 🌀 Rotaract & Club Roles — Rotaract Club of Young Vibrants
+
+- **President (Jul 2026 - Jun 2027)**
+  Leading the club with a vision to drive community impact and member growth, fostering a culture of service, innovation, and leadership among young professionals.
+
+- **President Special Aide (Jul 2025 - Jun 2026)**
+  Served as a key strategic support to the President — coordinating major club initiatives, managing inter-club relations, and ensuring smooth execution of flagship projects and events throughout the Rotary year.
+
+- **Member (Oct 2024 - Jun 2025)**
+  Actively participated in service projects and club activities. Honored with the **DRR Special Recognition** for outstanding contributions during Rotary Year 2024-25.
+
+- **Secretary (Jul 2023 - Jul 2024)**
+  Managed club communications, documentation, and administrative operations. Honoured with the **Best Secretary Award** by the Rotaract District Organisation for exemplary leadership and service.
+
+- **Club Service Director**
+  Actively involved in project management, documentation, and event coordination. Honored with the **DRR Special Recognition** for Rotary Year 2022-23.
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Technology (B.Tech) in Artificial Intelligence & Data Science**  
-  *Kathir College of Engineering (2021 - 2025)* | CGPA: **7.958**
-  
-- **Higher Secondary Certificate (HSC)**  
+
+- **Bachelor of Technology (B.Tech) in Artificial Intelligence & Data Science**
+  *Kathir College of Engineering (2021 - 2025)* | CGPA: **8.0**
+
+- **Higher Secondary Certificate (HSC)**
   *A.R.C. Matriculation Higher Secondary School, Coimbatore (2019 - 2021)* | Percentage: **94.40%**
-  
-- **Secondary School Certificate (SSLC)**  
+
+- **Secondary School Certificate (SSLC)**
   *A.R.C. Matriculation Higher Secondary School, Coimbatore (2018 - 2019)* | Percentage: **95%**
 
 ---
 
 ## 🏆 Awards & Certifications
-- **Awards:**  
-  - Best Secretary Award (Rotaract District Organisation, 2023-2024)  
-  - DRR Special Recognition (Rotaract Club)
-  
-- **Certifications:**  
-  - DevOps  
-  - Artificial Intelligence with Python  
-  - AI with Python Internship  
-  - Cloud Application Development (IBM)  
-  - Big Data Analytics (In Naan Mudhalvan)  
-  - Deep Learning with Python (Great Learning)
+
+### 🥇 Awards
+- **DRR Special Recognition** — Rotary Year 2024-25
+- **Best Secretary Award** — Rotaract District Organisation, 2023-2024
+- **DRR Special Recognition** — Rotary Year 2022-23
+
+### 📜 Certifications
+- DevOps
+- Artificial Intelligence with Python
+- AI with Python Internship
+- Cloud Application Development (IBM)
+- Big Data Analytics (Naan Mudhalvan)
+- Deep Learning with Python (Great Learning)
 
 ---
 
 ## 📫 Connect with Me
-- **Email:** [deenathayalanck@gmail.com](mailto:deenathayalanck@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/deenathayalan-c-k-3a823a230](https://www.linkedin.com/in/deenathayalan-c-k-3a823a230)  
+
+- **Email:** [deenathayalanck@gmail.com](mailto:deenathayalanck@gmail.com)
+- **LinkedIn:** [linkedin.com/in/deenathayalan-c-k-3a823a230](https://www.linkedin.com/in/deenathayalan-c-k-3a823a230)
 - **GitHub:** [github.com/DeenathayalanCK](https://github.com/DeenathayalanCK)
 
 ---
