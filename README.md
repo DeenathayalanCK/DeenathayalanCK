@@ -127,10 +127,10 @@ I'm a passionate **AI & Data Science** graduate, AI/ML Engineer, and Rotaractor 
   Served as a key strategic support to the President — coordinating major club initiatives, managing inter-club relations, and ensuring smooth execution of flagship projects and events throughout the Rotary year.
 
 - **Member (Oct 2024 - Jun 2025)**
-  Actively participated in service projects and club activities. Honored with the **DRR Special Recognition** for outstanding contributions during Rotary Year 2024-25.
+  Actively participated in service projects and club activities in Rotaract Club of Young Vibrants. Honored with the **DRR Special Recognition** for outstanding contributions during Rotary Year 2024-25.
 
 - **Secretary (Jul 2023 - Jul 2024)**
-  Managed club communications, documentation, and administrative operations. Honoured with the **Best Secretary Award** by the Rotaract District Organisation for exemplary leadership and service.
+  Managed club communications, documentation, and administrative operations in Rotaract Club of Coimbatore Royals Honoured with the **Best Secretary Award** by the Rotaract District Organisation for exemplary leadership and service.
 
 - **Club Service Director**
   Actively involved in project management, documentation, and event coordination. Honored with the **DRR Special Recognition** for Rotary Year 2022-23.
