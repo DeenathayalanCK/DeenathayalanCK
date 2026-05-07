@@ -107,7 +107,7 @@ I'm a passionate **AI & Data Science** graduate, AI/ML Engineer, and Rotaractor 
 
 ## 🤵 Professional Experience
 
-- **AI/ML Engineer @ Greenbotz AI Pvt. Ltd., Coimbatore (Jan 2026 - Present)**
+- **AI/ML Engineer @ Greenbotz Platorm Pvt. Ltd., Coimbatore (Jan 2026 - Present)**
   Spearheading the development of intelligent AI solutions — building and fine-tuning LLM-powered pipelines, designing RAG architectures for knowledge retrieval, and implementing agentic AI workflows for real-world automation. Working across the full AI stack from model evaluation and prompt engineering to deployment and integration.
 
 - **IT Administrator @ Siemens Energy (Jun 2025 - Jan 2026)**
